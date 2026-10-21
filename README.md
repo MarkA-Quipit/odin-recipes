@@ -2,7 +2,7 @@
 
 A small multi-page recipe site built with plain HTML for The Odin Project's Foundations course.
 
-**Live site:** [add GitHub Pages link if you enable it]
+**Live site:** [Github Live](https://marka-quipit.github.io/odin-recipes/)
 **Assignment:** [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## What's in it
